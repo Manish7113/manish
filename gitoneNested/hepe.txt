@@ -2,3 +2,5 @@ Hello from the dev one
 hello wrold 
 hello master ji
 hello dev-one from other merge
+
+hello from the dev two 
