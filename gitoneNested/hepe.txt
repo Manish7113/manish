@@ -4,3 +4,4 @@ hello master ji
 hello dev-one from other merge
 
 hello from the dev two 
+how are you from the dev-two
