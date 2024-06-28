@@ -3,3 +3,4 @@ hello ji dev-one
 
 hello ji master one 
 hello from master one
+how are you from master
